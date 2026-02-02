@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\Basics\\",
+  "WorkspaceRootPath": "C:\\Users\\Lukas\\Documents\\OpenGL\\OpenGLBasics\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A705B8B2-FBDE-4EEA-B429-15D2F169E57C}|Basics.vcxproj|C:\\Users\\Lukas\\Documents\\OpenGLBasics\\Basics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A705B8B2-FBDE-4EEA-B429-15D2F169E57C}|Basics.vcxproj|C:\\Users\\Lukas\\Documents\\OpenGL\\OpenGLBasics\\Basics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A705B8B2-FBDE-4EEA-B429-15D2F169E57C}|Basics.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A705B8B2-FBDE-4EEA-B429-15D2F169E57C}|Basics.vcxproj|C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\FragmentShader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\FragmentShader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A705B8B2-FBDE-4EEA-B429-15D2F169E57C}|Basics.vcxproj|C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\VertexShader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\VertexShader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,36 +27,34 @@
               "DocumentIndex": 1,
               "Title": "FragmentShader.txt",
               "DocumentMoniker": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\FragmentShader.txt",
-              "RelativeDocumentMoniker": "..\\external\\FragmentShader.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\OpenGLBasics\\external\\FragmentShader.txt",
               "ToolTip": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\FragmentShader.txt",
-              "RelativeToolTip": "..\\external\\FragmentShader.txt",
+              "RelativeToolTip": "..\\..\\..\\OpenGLBasics\\external\\FragmentShader.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-30T10:18:19.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T10:18:19.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "VertexShader.txt",
               "DocumentMoniker": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\VertexShader.txt",
-              "RelativeDocumentMoniker": "..\\external\\VertexShader.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\OpenGLBasics\\external\\VertexShader.txt",
               "ToolTip": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\external\\VertexShader.txt",
-              "RelativeToolTip": "..\\external\\VertexShader.txt",
+              "RelativeToolTip": "..\\..\\..\\OpenGLBasics\\external\\VertexShader.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-30T10:15:37.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T10:15:37.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\Basics\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Lukas\\Documents\\OpenGL\\OpenGLBasics\\Basics\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Lukas\\Documents\\OpenGLBasics\\Basics\\main.cpp",
+              "ToolTip": "C:\\Users\\Lukas\\Documents\\OpenGL\\OpenGLBasics\\Basics\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-30T09:06:46.619Z",
               "EditorCaption": ""
