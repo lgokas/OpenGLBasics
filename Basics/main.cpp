@@ -91,6 +91,8 @@ int main()
 
 	// set up vertex data (and buffer(s)) and configure vertex attributes
 	// ------------------------------------------------------------------
+	float terrainWidthWorld = 200.0f;
+	float terrainHeightWorld = 200.0f;
 	std::vector<float> vertices;
 	float yScale = 64.0f / 256.0f, yShift = 16.0f;
 	int rez = 1;
@@ -102,8 +104,8 @@ int main()
 			unsigned char* pixelOffset = data + (j + width * i) * bytePerPixel;
 			unsigned char y = pixelOffset[0];
 
-			float vx = (float)j - width / 2.0f;
-			float vz = (float)i - height / 2.0f;
+			float vx = terrainWidthWorld * (j / (float)(width - 1) - 0.5f);
+			float vz = terrainHeightWorld * (i / (float)(height - 1) - 0.5f);
 			float vy = (int)y * yScale - yShift;
 
 			// IMPORTANT: UVs must match grid layout EXACTLY
@@ -192,7 +194,7 @@ int main()
 		dataFormat = GL_RGBA;
 	}
 
-	glPixelStorei(GL_UNPACK_ALIGNMENT, 1);   // ⭐ CRITICAL
+	glPixelStorei(GL_UNPACK_ALIGNMENT, 1);
 
 	glTexImage2D(GL_TEXTURE_2D,
 		0,
